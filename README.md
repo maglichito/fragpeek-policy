@@ -23,7 +23,8 @@ When you log in using your FACEIT account, we may receive limited account inform
 
 - Username  
 - Player ID  
-- Profile information made publicly available  
+- Profile information made publicly available
+- Email address
 
 This information is used solely for authentication and retrieving your statistics.
 
