@@ -1,17 +1,17 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]  
-**App Name:** [Your App Name]  
-**Developer:** [Your Name / Company Name]  
-**Contact Email:** [your@email.com]
+**Effective Date:** 22.02.2026  
+**App Name:** Fragpeek  
+**Developer:** Dzenan Becirovic  
+**Contact Email:** dzenanbecirovicc@gmail.com
 
 ---
 
 ## 1. Introduction
 
-This Privacy Policy explains how **[Your App Name]** ("the App") collects, uses, and protects information when you use our mobile application.
+This Privacy Policy explains how **Fragpeek** ("the App") collects, uses, and protects information when you use our mobile application.
 
-The App provides statistical information related to the platform FACEIT. This App is not affiliated with, endorsed by, or officially connected to FACEIT.
+The App provides CS2 match stats, rankings, and performance insights from publicly available FACEIT data. The App is not affiliated with, endorsed by, or officially connected to FACEIT.
 
 ---
 
@@ -24,7 +24,6 @@ When you log in using your FACEIT account, we may receive limited account inform
 - Username  
 - Player ID  
 - Profile information made publicly available  
-- Email address (if provided by FACEIT and authorized by you)
 
 This information is used solely for authentication and retrieving your statistics.
 
@@ -113,7 +112,7 @@ Depending on your location (e.g., GDPR in the EU or CCPA in California), you may
 
 To make a request, contact us at:
 
-[your@email.com]
+dzenanbecirovicc@gmail.com
 
 Some data may be controlled by third-party providers (FACEIT or Firebase), and you may need to contact them directly.
 
@@ -129,5 +128,5 @@ We may update this Privacy Policy from time to time. Updates will be reflected o
 
 If you have any questions regarding this Privacy Policy, please contact:
 
-[Your Name / Company Name]  
-[your@email.com]
+Dzenan Becirovic
+dzenanbecirovicc@gmail.com
