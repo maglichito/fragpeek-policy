@@ -63,7 +63,7 @@ Depending on your location (e.g., GDPR in the EU or CCPA in California), you hav
 
 **How to delete your data:**
 * **Immediate Deletion:** Since we do not store your data on a server, you can delete all locally stored data and tokens by simply **Logging Out** of the App or **Uninstalling** the App from your device.
-* **Revoking Access:** To fully disconnect the App from your FACEIT account, you can manage your "Authorized Applications" within your [FACEIT Account Settings](https://www.faceit.com/en/settings/integrations).
+* **Revoking Access:** To fully disconnect the App from your FACEIT account, you can manage your "Authorized Applications" within your FACEIT Account Settings.
 * **Requests:** For any questions regarding your rights, contact us at `dzenanbecirovicc@gmail.com`.
 
 ## 9. Changes to This Privacy Policy
